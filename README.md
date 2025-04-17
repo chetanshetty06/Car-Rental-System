@@ -6,3 +6,6 @@ This project is a full-stack car rental system developed using the MERN stack. I
 
 # Figma Design 
 # https://www.figma.com/design/bNc2RRkf4ON90ocpyaIwxI/Car-Rental-System-Prototype-Design?node-id=0-1&p=f&t=oMiVIfIJirlYJLF4-0
+
+# Use Case Document
+# https://docs.google.com/document/d/1xPVudIR-0luhoylGNmpSQr_AOcLoG1Q5e3n2mQHYgMc/edit?usp=sharing
